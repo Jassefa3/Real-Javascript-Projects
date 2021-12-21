@@ -3,16 +3,15 @@
 Here are some small projects I made using JavaScript.
 
 # Projects
-
-This is a display of sample websites that I made using HTML and CSS
-
-# Projects
-* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/index.html" target="_blank">Space Station Site</a>
-* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/academy_cinemas.html" target="_blank">Movie Theater Site</a>
+* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/index.html" target="_blank">Pizza Menu</a>
+* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/academy_cinemas.html" target="_blank">Tic-Tac-Toe Game</a>
+* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/academy_cinemas.html" target="_blank">Calculator</a>
 
 
-## Space Station Site
-This page is an example home page for a space travel company. It's styled using CSS and contains a navbar, image containers, and a form.
 
-## Movie Theater Site
-This page is an example home page for a movie theater that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards, and dropdowns.
+## Pizza Menu
+This project is a menu used to order pizza with a various selection of toppings. It then takes the input information and calculates a price for the order.
+## Tic-Tac-Toe Game
+The classic game of tic-tac-toe. It randomly rolls dice to select which of the two players goes first and then users are off playing the classic game. Users can decide which token each player wants to use and the winner is celebrated with a funny yelling sound and flashing lights.
+## Calculator
+A basic 4 function calculator. Users can add,subtract,multiply, and divde on a sleek web version of a calculator.
