@@ -3,7 +3,7 @@
 Here are some small projects I made using JavaScript.
 
 # Projects
-* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/index.html" target="_blank">Pizza Menu</a>
+* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/Real-Javascript-Projects/blob/main/Pizza_Project/Pizza.html" target="_blank">Pizza Menu</a>
 * <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/academy_cinemas.html" target="_blank">Tic-Tac-Toe Game</a>
 * <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/HTML-and-CSS-Projects/blob/main/academy_cinemas.html" target="_blank">Calculator</a>
 
