@@ -4,7 +4,7 @@ Here are some small projects I made using JavaScript.
 
 # Projects
 * <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/Real-Javascript-Projects/blob/main/Pizza_Project/Pizza.html" target="_blank">Pizza Menu</a>
-* <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/Real-Javascript-Projects/blob/main/TicTacToe/TicTacToe.html" target="_blank">Tic-Tac-Toe Game</a>
+* <a href=" https://jassefa3.github.io/Tic-Tac-Toe-Project/" target="_blank">Tic-Tac-Toe Game</a>
 * <a href="https://htmlpreview.github.io/?https://github.com/Jassefa3/Real-Javascript-Projects/blob/main/calculator.html" target="_blank">Calculator</a>
 
 
